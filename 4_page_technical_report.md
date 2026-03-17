@@ -1,6 +1,6 @@
 # Context Poisoning in Tabular In-Context Learning: A Mechanistic Analysis of Geometric Hijacking and Inverse Scaling
 
-**Authors:** [Your Name] & Antigravity AI  
+
 **Focus:** Foundational Tabular ICL (OrionBix), Mechanistic Interpretability, Security
 
 ---
